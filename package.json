@@ -2,7 +2,7 @@
   "name": "default",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/cbenjamin2009/Wildfire-Tracker/",
+  "homepage": "https://cbenjamin2009.github.io/Wildfire-Tracker/",
   "dependencies": {
     "@iconify/icons-mdi": "^1.1.15",
     "@iconify/react": "^1.1.4",
