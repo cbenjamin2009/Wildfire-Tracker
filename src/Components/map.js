@@ -2,6 +2,7 @@ import {useState} from 'react';
 import GoogleMapReact from 'google-map-react';
 import LocationMarker from './locationMarker';
 import LocationInfoBox from './locationInfoBox';
+// this may not be needed
 require('dotenv').config();
 
 const Map = ({eventData, center, zoom}) => {
